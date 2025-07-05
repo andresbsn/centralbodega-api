@@ -32,3 +32,6 @@ coverage/
 
 # Debug
 debug.log
+
+# Scripts locales
+hash*.js
